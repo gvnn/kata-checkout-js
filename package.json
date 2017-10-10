@@ -1,0 +1,21 @@
+{
+  "name": "kata-checkout",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvnn/kata-checkout-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gvnn/kata-checkout-js/issues"
+  },
+  "homepage": "https://github.com/gvnn/kata-checkout-js#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
